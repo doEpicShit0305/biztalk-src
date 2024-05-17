@@ -1,0 +1,3 @@
+[submodule "Tarento.MS.OPS.Demo"]
+	path = Tarento.MS.OPS.Demo
+	url = https://Ivolveorganization@dev.azure.com/Ivolveorganization/Ivolve%20Biztalk%20to%20Azure%20Migration/_git/BiztalkSrcIvolve
